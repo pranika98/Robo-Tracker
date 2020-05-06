@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robo-Tracker/static/css/main.0a4b7e61.chunk.css",
+    "main.js": "/Robo-Tracker/static/js/main.1ff83150.chunk.js",
+    "main.js.map": "/Robo-Tracker/static/js/main.1ff83150.chunk.js.map",
+    "runtime-main.js": "/Robo-Tracker/static/js/runtime-main.11eef322.js",
+    "runtime-main.js.map": "/Robo-Tracker/static/js/runtime-main.11eef322.js.map",
+    "static/css/2.3af2dac8.chunk.css": "/Robo-Tracker/static/css/2.3af2dac8.chunk.css",
+    "static/js/2.800020c3.chunk.js": "/Robo-Tracker/static/js/2.800020c3.chunk.js",
+    "static/js/2.800020c3.chunk.js.map": "/Robo-Tracker/static/js/2.800020c3.chunk.js.map",
+    "index.html": "/Robo-Tracker/index.html",
+    "precache-manifest.b4a34c013cdd8b6d777fe98440278dad.js": "/Robo-Tracker/precache-manifest.b4a34c013cdd8b6d777fe98440278dad.js",
+    "service-worker.js": "/Robo-Tracker/service-worker.js",
+    "static/css/2.3af2dac8.chunk.css.map": "/Robo-Tracker/static/css/2.3af2dac8.chunk.css.map",
+    "static/css/main.0a4b7e61.chunk.css.map": "/Robo-Tracker/static/css/main.0a4b7e61.chunk.css.map",
+    "static/js/2.800020c3.chunk.js.LICENSE.txt": "/Robo-Tracker/static/js/2.800020c3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo-Tracker/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11eef322.js",
+    "static/css/2.3af2dac8.chunk.css",
+    "static/js/2.800020c3.chunk.js",
+    "static/css/main.0a4b7e61.chunk.css",
+    "static/js/main.1ff83150.chunk.js"
+  ]
+}
